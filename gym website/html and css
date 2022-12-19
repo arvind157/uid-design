@@ -1,0 +1,815 @@
+<html lang="en">
+
+<head>
+    
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body id="home">
+    <header>
+
+        <a class="logo" href="#"> india's no 1 training ground<span class="logodot"></span></a>
+
+        <ul class="navbar2">
+            <li>
+                <a class="links" href="#home">home</a>
+                <a class="links" href="#diet">diet</a>
+                <a class="links" href="#menuuu">equipments</a>
+                <a class="links" href="#expertss">experts and tips</a>
+                <a class="links" href="#schedule">schedule</a>
+                <a class="links" href="#contact">contact and references</a>
+            </li>
+        </ul>
+
+    </header>
+
+
+
+
+
+
+
+    <div class="banner" id="banner">
+        <h2 class="mainheading1">a to z fitness</h2>
+        <p class="maincontent" >excuses are useless results are priceless
+        <div class="maincontentsub"> WAKE UP. SWEAT. REPEAT</div>
+
+
+        </p>
+        <a class="gallerylink" href="#menu"> GALLERY </a>
+    </div>
+<script type="text/javascript">
+        window.addEventListener('scroll', function () {
+            const header = document.querySelector('header');
+
+            header.classList.toggle("sticky", window.scrollY > 0);
+
+
+        });
+    </script>
+   
+
+    <section>
+	<br/>
+	<br/>
+	<br/><br/>
+	<br/>
+        <p id="diet"></p>
+        <div class="about">
+            <h1 class="aboutheading">diet</h1>
+            <p class="aboutuscontent"><span style="color:blue">Minimally processed foods are the best for sports and weight lifting nutrition.</span> Lean protein, complex carbs and fiber are your best friends, especially if you're trying to lose weight. Your body needs lean protein such as turkey, nonfat Greek yogurt, fish and egg whites to build muscle and stay full.When it comes to nutrition, things can become overly complicated. However, one thing that is abundantly clear is that <span style="color:blue">nutrition has a huge impact on the progress that is made in the gym.</span>
+			</p>
+			<br/>
+			<br/>
+			<p class="aboutuscontent">We have all heard the statistics about the increase in obesity from processed foods, soda, and sugars. Because of this there has been an abundance of diet tips, diet profiles, and diet books claiming to be the best diet to lose weight. Even with all the diet information, individuals struggle to maintain a healthy diet and lifestyle balance.</p>
+			<br/>
+          
+        </div>
+		<br/>
+		<br/>
+		  <div class="aboutvegheading">the veg way
+			</div>
+			<p class="vegcontent"> <span style="color:red">The vegetarian diet involves abstaining from eating meat, fish and poultry.</span>
+
+People often adopt a vegetarian diet for religious or personal reasons, as well as ethical issues, such as animal rights.
+
+Others decide to become vegetarian for environmental reasons, as livestock production increases greenhouse gas emissions, contributes to climate change and requires large amounts of water, energy and natural resources.
+
+There are several forms of vegetarianism, each of which differs in their restrictions.
+ <span style="color:red">A Vegetarian diet can be divided into three parts that is - total vegetarian, lacto vegetarian and lacto-ovo vegetarian.</span> A pure vegetarian diet includes fruits, nuts, vegetables, fruits, grains, and legumes. The lacto vegetarian diet contains dairy products like milk, butter, cheese etc., and plant food.On the other hand, lacto-ovo vegetarian food includes eggs and dairy products like milk, butter, cheese and so on.</p>
+
+
+        <div class="aboutusimg">
+            <img width="400px" src="file:///C:/Users/arv20/Desktop/html/diet.jpg" alt="">
+        </div>
+<div class="vegimg">
+<img width="400px" src="file:///C:/Users/arv20/Desktop/html/veg%20diet.jfif" alt="">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+<p class="vegcontent">A protein-rich diet plan is a key to great bodybuilding. But does this diet have to be vegetarian? No!  <span style="color:red">An Indian Vegetarian Diet Plan for Bodybuilding can be both effective and result oriented.</span>
+
+Being vegetarian is a trend that is catching up in various parts of the world. There is a misconception that vegetarian food will not give you the necessary nutrition for bodybuilding. This isn’t true. Building muscles by eating a healthy vegetarian diet is possible. One of the best examples for the same is Bollywood hunk Vidyut Jammawal. He is a vegan and not to mention.So if a vegan diet plan can make bodybuilding possible, then why not vegetarian?</p>
+
+<Br/>
+<br/><Br/><br/><br/><br/>
+  <div class="aboutvegheading">the non-veg way
+			</div>
+			<p class="vegcontent"> Giving up meat, seafood, eggs, and dairy products might seem like an easy way to shed those unwanted pounds. But <span style="color:orange">swapping your favourite chicken breast recipes for plant-based foods may not help you achieve your weight loss goals unless you do it correctly</span>. Of course, there’s enough evidence suggesting that a properly planned vegan diet is definitely beneficial for your health. A number of scientific studies have shown that vegans tend to have lower cholesterol and blood pressure levels, a reduced risk of certain conditions like heart disease, diabetes, and some cancers. A vegan diet may also help you lose weight more effectively and benefit weight control, mainly because of high-fibre content in plant-based foods. However, going vegan can also expand your waistline and belly if you’re not careful.</p>
+<div class="aboutusimg2">
+  <img width="400px" src="file:///C:/Users/arv20/Desktop/html/download.jfif" alt=""></div>
+  <br/>
+  <br/>
+  <br/>
+   <br/> <br/> <br/> <br/> <br/>
+ <p class="vegcontent"> When it comes to protein, <span style="color:orange">non-vegetarians have loads of options such as meat, eggs, fish and dairy products</span>. But it is also important for one to know the right quantity of protein that should typically be consumed in a day. The best ways to eat meat are to cook it in the healthiest possible methods. Meats contain saturated fats which can thicken the blood and clog blood vessels. One should therefore be careful in their cooking methods so as to not add more damaging fat to it.</p>
+ <figure>
+ <center>
+  <img src="file:///C:/Users/arv20/Desktop/html/v.jfif" alt="Trulli" style="width:750px">
+  
+  <figcaption> An individual s diet can be dictated by his religion, personal choice or by his health. </figcaption>
+  <figcaption>While you may find several Indians who are vegetarians, there is a fair share of meat eaters as well.</figcaption> 
+  <figcaption>However, eating non-veg needs to be monitored if you wish to stay healthy.</figcaption>
+</figure>
+	 
+	        
+
+
+
+    </section>
+    <div id="menu" class="menutitle">
+        <h2 id="menuuu" class="menuheading"> gallery</h2>
+        <p class="menucontent">Basic euipments for a daily-workout</p>
+    </div>
+    <div class="fullmenu">
+        <section class="menu">
+
+            <div class="content">
+                <div class="box">
+                    <div class="menuimg">
+                        <img src="file:///C:/Users/arv20/Desktop/html/euip%201.jpg" alt="">
+
+                    </div>
+                    <div class="text">
+                        <p class="menuitem">Squat rack</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="menuimg">
+                        <img src="file:///C:/Users/arv20/Desktop/html/barbell-set-gym-weights-heavy-tyre.jpg" alt="">
+
+                    </div>
+                    <div class="text">
+                        <p class="menuitem">barbell set</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="menuimg">
+                        <img src="file:///C:/Users/arv20/Desktop/html/Wood-Plyometric-Box%20eqip%205.jpg" alt="">
+
+                    </div>
+                    <div class="text">
+                        <p class="menuitem">plyometric box</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="menuimg">
+                        <img src="file:///C:/Users/arv20/Desktop/html/Leg-Extension-Curl-Machine%20eqip%204.jpg" alt="">
+
+                    </div>
+                    <div class="text">
+                        <p class="menuitem">leg curl </p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="menuimg">
+                        <img src="file:///C:/Users/arv20/Desktop/html/-Elliptical-Machine-Trainer%20euip%203.webp" alt="">
+
+                    </div>
+                    <div class="text">
+                        <p class="menuitem">elliptical trainer</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="menuimg">
+                        <img src="file:///C:/Users/arv20/Desktop/html/eqip%206.jpg" alt="">
+
+                    </div>
+                    <div class="text">
+                        <p class="menuitem">treadmill</p>
+                    </div>
+
+                </div>
+
+                
+
+        </section>
+    </div>
+
+
+
+    <section class="expert">
+        <div class="fullexperts">
+            <div id="menu" class="menutitle">
+                <h2 id="expertss" class="menuheading">Experts and successful exercisers reveal the top tips and tricks they use to get the most from their fitness routines.. <span class="lettero">o</span>ur <span
+                        class="letterm">g</span>ym
+                    <span class="letterm">e</span>xperts
+                </h2>
+                <p class="menucontent">Experts and successful exercisers reveal the top tips and tricks they use to get the most from their fitness routines..</p>
+				<br/>
+				<br/>
+				<br/>
+				<br/>
+           <img src="file:///C:/Users/arv20/Desktop/html/sum/Don_.jpg" height="400" width="400" alt="image not found">
+        <h1 style="background-color: black;  color: white;">Don Saladino</h1>
+        <p style="text allign:center">Don Saladino is an American celebrity trainer and gym owner. 
+
+            He’s coached actors, athletes, and famous celebrities, such as David Harbour, Liev Schreiber, and Ryan Reynolds.
+            <br/></p>
+            <p style="text allign:center">
+            Don Saladino grew up around people who were athletic and played sports, including his friends, family, and school colleagues. This influenced him to become a sportsman himself at an early
+             age. He said; “From an early age, I was from a very athletic town. In my graduating class of 110, at least half went on to play college sports.” – Don Saladino.
+             
+
+             As Don says, fitness isn’t about working out for hours, several days per week. In his eyes, it’s much more about staying consistent and dedicated to his training, even if it’s only for five minutes a day. In the own words of Don Saladino;
+             
+                 “Fitness isn’t about working out 60-90 minutes, 6 days a week. This is why people aren’t successful. It’s about getting in a little bit, even if it’s just 5 minutes.”
+             </p>
+            <style>
+                img {
+                  display: block;
+                  margin-left: auto;
+                  margin-right: auto;
+                }
+                </style>
+            <img src="file:///C:/Users/arv20/Desktop/html/sum/don.webp" height="300" width="300" alt="Image not found" class="centre"><br/>
+            <p style="text-align:center">As Don Saladino believes in quick workouts, here is his 10-minute workout to build muscle and lose fat</p>
+            <ul>
+                <li style="font-size: 20px">Split Squat, 5 reps each side</li>
+                <li style="font-size: 20px">Glute Bridge, 5reps each side</li>
+                <li style="font-size: 20px">Elevated Push-ups,5 slow reps</li>
+                <li style="font-size: 20px">Cobra Row, 5 reps with a 2-second hold on the top</li>
+                <li style="font-size: 20px">Side Plank, 30 seconds each side, 5reps</li>
+            </ul>
+            <h2 style="background-color: black;color: white">What can we learn from Don Saladino</h2>
+            <p>Don Saladino is a successful fitness entrepreneur, model, and celebrity trainer. There’s a lot to learn from him, but perhaps the most important lesson, is to always strive to reach big goals in life.<br/></p>
+
+                <p>Find your passion, pursue it, and don’t give up. Keep going until you realize what you’d set for yourself.<br/></p>
+                
+                <p>Remember that fears, doubts, and worries are all part of the journey of becoming successful. As long as you don’t give up, there’s a chance you’ll reach your own greatness – just as Don Saladino did.</p>
+<br/>
+<br/>
+<br/>
+<br/> <img src="file:///C:/Users/arv20/Desktop/html/sum/don.webp" height="300" width="400" alt="image not found">
+        <h1 style="background-color: black;  color: white;">Katie Crewe</h1>
+        <p style="text-align:center">Katie Crewe is a Certified Strength and Conditioning Specialist (CSCS),  psychology grad and health coach.
+             For her, the fitness journey started for aesthetic purposes as it starts for many of us.  </p><br/>
+            <p style="text-align:center">She is from Canada but has a worldwide reach because of her healthy food recipes and workout advice! However, growing up, she was not really keen on fitness and was super
+                 afraid of getting bulky if she went to the gym. Therefore, she preferred doing bodyweight exercises using no equipment.
+                  </p>
+            <style>
+                img {
+                  display: block;
+                  margin-left: auto;
+                  margin-right: auto;
+                }
+                </style>
+            <img src="file:///C:/Users/arv20/Desktop/html/sum/Katie_.jpg" height="300" width="300" alt="Image not found" class="centre"><br/>
+            <p style="text allign:center">These are some  of Katie's favourite exercise for each of her body parts:</p>
+            <ul>
+                <li style="font-size: 20px"><b>Chest and Triceps-  </b>Pushups</li>
+                <li style="font-size: 20px"><b>Back and Biceps- </b>Deadlifts and pull-ups</li>
+                <li style="font-size: 20px"><b>Legs- </b>Squats, Deadlifts, Lunges</li>
+                <li style="font-size: 20px"><b>Abs/Core- </b>Hanging Leg Raises, Planks </li>
+            </ul>
+            <h2 style="background-color: black;color: white">What can we learn from Katie Crewe</h2>
+            <p style="text allign:center">Katie’s journey in fitness has taught us that diet, combined with regular exercise, can provide
+                 many health benefits, and in some cases – even cure certain problems in the body.<br/></p>
+                 <p style="text allign:center">
+                 If you also have similar problems like Katie, maybe bloating or other intestinal issues – try to gradually change your
+                 diet by adding nutrient-rich and clean foods, as well as avoiding eating too many processed foods.<br/></p>
+                <p style="text allign:center"> Doing this can possibly help you overcome certain health problems, just like we saw in Katie’s case.</p>
+				<br/>
+				<br/>
+				<br/>
+				<br/>
+			<h1 style="background-color: black;  color: white;">Top 10 fitness tips</h1>
+        <img src="file:///C:/Users/arv20/Desktop/html/sum/work.jpg" height="300" width="400" alt="image not found" class><br>
+        <b>1) REFUEL AND REPLENISH</b><br>
+        <p>While the outdated notions of pre and post-workout windows of opportunity for specific nutrient uptake and absorption are nowadays regarded as bro science
+             there is no arguing with real-world results. There is a time and a place for key pre and post-workout ingredients. One thing worth remembering is that 
+            certain nutrients (like whey protein isolate, branched-chain aminos and efficiently absorbed carbohydrates) can and should be taken both pre and post-workou
+            Others can be introduced either pre or post-workout. Indeed, pre and post-workout confusion can usually be traced to what foods and supplements to include and
+             when to include them. Read on for a list of recommended foods and performance ingredients and when best to take them.
+            Note: all of the foods and supplements listed below (the best of the best but by no means an exhaustive list) can be included pre and post-workout.
+             For some users, higher dosages may be required. Again, trial and error may be applied. For the purposes of this article, timing and dosage recommendations
+              are in line with what is considered optimal.</p>
+              <img src="file:///C:/Users/arv20/Desktop/html/sum/1.jpg" height="303" width="400" alt="Image not found" class="centre"><br>
+        <b>2) LISTEN TO MUSIC</b><br>
+        <p>Everyone knows that your favorite tunes can fire you up for a workout, but in one Indian Journal of Physiology and Pharmacology of 30 men and women, people
+             who listened to music (especially slow music) after their workout recovered faster than did those who went sans tunes. “Music boosts the body’s levels of 
+             serotonin and dopamine, hormones that are known to foster recovery,” says Perkins . Try listening to a few of your favorite, most relaxing tracks as soon 
+             as you finish your workout. It will help your blood pressure and heart rate get back to normal and recovery happen ASAP.</p>  
+             <img src="file:///C:/Users/arv20/Desktop/html/sum/2.jpg" height="303" width="400" alt="Image not found" class="centre"><br>
+        <b>3) SWAP STRETCHING FOR A DYNAMIC WARMUP</b> 
+        <p>Don’t stretch in vain. In one Austin State University study, people who warmed up with light leg extensions and squats were able to squat with 8.36% more
+             weight during their workout than if they had performed typical “bend and hold” stretches. Their lower bodies were also 22.7% more stable. “Think of a rubber
+              band,” says Wilson. “If you stretch it around a lot and then pull it back to shoot it, it’s not going to go as far. The same thing happens with your muscles
+               and tendons.” However, dynamic bodyweight moves—ones that mimic the workout you’re about to perform—increase blood flow and improve your range of motion
+                without compromising your muscles’ and tendons’ elastic properties. So for instance, if you’re about to go for a run, it’s a good idea to move through about 
+                five to 10 minutes of lunges, knee raises and leg swings before hitting the treadmill.</p>   
+                <img src="file:///C:/Users/arv20/Desktop/html/sum/3.jpg" height="300" width="400" alt="Image not found" class="centre"><br> 
+        <b>4) PREFACE YOUR WORKOUT WITH CARBS</b>  
+        <p>You might think of carbo-loading as something you do to run a better marathon. But eating carbs before your workout can also help you during those intervals,
+             according to 2013 research published in Sports Medicine. “Carbs are your body’s primary fuel for any high-intensity workout, and when your body is fueled,
+              your body is going to put forth a better effort and get a better value, both in terms of caloric expenditure and muscle growth, than it would if you were 
+              in fasted state,” says Wilson. So even if you like your morning workouts, make sure to eat some toast or oatmeal before you head out of the door.</p> 
+              <img src="file:///C:/Users/arv20/Desktop/html/sum/4.webp" height="300" width="400" alt="Image not found" class="centre"><br>  
+              <b>5) DO INTERVALS</b>
+              <p>Minute per minute, high-intensity intervals—periods of all-out effort interspersed with short, low-intensity “breaks”—come with more cardiovascular 
+                  and fat-loss benefits than any other workout, says Wall. For instance, in one study from Human Performance Laboratory at the University of Wisconsin-La
+                  , people who performed a 20-minute interval workout with exercises including pushups, burpees, squats and lunges burned an average of 15 calories per 
+                  minute—nearly twice as many as during long runs. To burn similar calories, follow the workout’s protocol: Perform as many reps as possible for 20 seconds, 
+                  rest for 10 seconds and repeat for a total of four minutes. Rest one minute, then repeat for a total of four rounds.</p>
+                  <img src="file:///C:/Users/arv20/Desktop/html/sum/5.jpg" height="300" width="400" alt="Image not found" class="centre"><br> 
+              <b>6) DRINK WATER</b> 
+              <p>Losing just 2% of your body weight in fluids—some gym-goers sweat out 6 to 10%—can make your workout feel harder, reduce your exercise performance and
+                   reduce your body’s ability to recover after you leave the gym, according to a review from the University of North Carolina. Unfortunately, “we find 
+                   that many people are dehydrated when they show up to the gym,” says Amanda Carlson-Phillips, M.S., R.D., vice president of nutrition and research at 
+                   EXOS. She recommends everyone drink ½ to 1 ounce of water per pound of bodyweight per day. To make sure you’re drinking enough water during your 
+                   workout to replace any fluids you lose, weigh yourself both before and after a sweat session, says Carlson-Phillips. You shouldn’t be losing more 
+                   than 2% of your bodyweight.</p>  
+                   <img src="file:///C:/Users/arv20/Desktop/html/sum/6.jpg" height="300" width="400" alt="Image not found" class="centre"><br>     
+               <b>7) GET A BETTER NIGHT'S SLEEP</b>  
+               <p>Quality shut-eye is vital to getting the most out of your time spent in the gym. And that goes for every night of the week. According to one 2015 
+                   Sports Medicine review, poor sleep hinders not only your exercise performance (and the number of calories you burn), but also your body’s ability 
+                   to come back stronger after every workout. “Sleep drives the hormonal shifts that promote the body’s recovery to exercise,” says Carlson-Phillips. 
+                   Without appropriate sleep, symptoms of over-training, including fitness plateaus, set in. Aim for seven to nine hours of sleep every single night.</p>
+                   <img src="file:///C:/Users/arv20/Desktop/html/sum/7.jpg" height="300" width="400" alt="Image not found" class="centre"><br>  
+               <b>8) GET A CARDIO BUDDY</b>  
+               <p>In one Annals of Behavioral Medicine study, cyclists who exercised with a partner pedaled almost twice as long as those who rode solo. 
+                   Having someone else around pushes you to perform at your best and even makes workouts feel less difficult, says Perkins . 
+                   The results: You can exercise longer and harder and get more out of every trip to the gym.</p>
+               <p>You’re less likely to get bored when you have a workout buddy, especially a friend. While you’re catching up, having a laugh, encouraging each other,
+                    you’re also getting healthier. It’s a win-win. Chatting to a friend during exercise and breaks can help time pass quickly too. You’ll have more 
+                    options as well, such as a game of tennis or squash.</p>  
+                    <img src="file:///C:/Users/arv20/Desktop/html/sum/8.jpg" height="300" width="400" alt="Image not found" class="centre"><br>   
+               <b>9) INDULGE IN A MASSAGE</b> 
+               <p>That post-workout massage does more than just feel good. According to research from McMaster University in Canada, it influences genes in your 
+                   muscle cells to decrease inflammation and increase their number of mitochondria, which help power exercise and recovery. It’s important to remember 
+                   that your muscles don’t get fitter during your workout; they do so between your workouts as they recover and adapt to exercise, says exercise 
+                   physiologist Anthony Wall, M.S., director of professional education for the American Council on Exercise. “Massage helps this process along.”</p>
+                   <img src="file:///C:/Users/arv20/Desktop/html/sum/9.jpg" height="300" width="400" alt="Image not found" class="centre"><br>
+               <b>10) EAT PROTEIN BEFORE BED</b> 
+               <p>Protein helps your muscles build back up after a workout, and for optimal fitness results, that shouldn’t stop when you’re snoozing. Luckily, 
+                   research from Maastricht University in the Netherlands shows that a nighttime snack rich in casein, a slow-digesting protein, keeps amino acid 
+                   and muscle protein synthesis rates elevated all throughout the night. To get the casein protein you need, Carlson-Phillips recommends eating Greek 
+                   yogurt or cottage cheese after your workouts and before you turn in for the night.</p>
+                   <img src="file:///C:/Users/arv20/Desktop/html/sum/10.webp" height="300" width="400" alt="Image not found" class="centre"><br>                      
+        
+        
+
+
+
+            </div>
+        </div>
+    </section>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+    <section class="schedules" id="schedule">
+        <div class="schedulefull">
+            <div id="menu" class="menutitle2">
+                <h2 class="menuheading"> Schedule
+                </h2>
+				<body style="background-image: url(backg1.jpg) ;background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
+       
+        <br><br>
+                 <table cellpadding="" cellspacing="10" style="margin-left: 100px;border-color:black;size: 40px;">
+        <tr><td><a href="chest.html" target="_blank"><img src="file:///C:/Users/arv20/Desktop/html/anil/mon%20icon.jpg"></a></td>
+        <td align="left" valign="bottom" ><a href="file:///C:/Users/arv20/Desktop/html/anil/chest.html" target="_blank"style="text-decoration: none;" ><div style="font-family:inherit;color:gold;font-size: 25px;text-decoration: none;">MONDAY</div></a></td></tr>
+        <tr><td><a href="bicep.html" target="_blank"><img src="file:///C:/Users/arv20/Desktop/html/anil/tue%20icon.jpg"></a></td>
+        <td align="left" valign="bottom" ><a href="file:///C:/Users/arv20/Desktop/html/anil/bicep.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color:gold;font-size: 25px;">TUESDAY</div></a></td></tr>
+        <tr><td><a href="tricep.html" target="_blank"><img src="file:///C:/Users/arv20/Desktop/html/anil/wed%20icon.jpeg"></a></td>
+        <td align="left" valign="bottom"><a href="file:///C:/Users/arv20/Desktop/html/anil/tricep.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color: gold;font-size: 25px;">WEDNESDAY</div></a></td></tr>
+        <tr><td><a href="back.html" target="_blank"><img src="file:///C:/Users/arv20/Desktop/html/anil/thru%20icon.jpeg"></a></td>
+        <td align="left" valign="bottom"><a href="file:///C:/Users/arv20/Desktop/html/anil/back.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color: gold;font-size: 25px;">THURSDAY</div></a></td></tr>
+        <tr><td><a href="shoulder.html" target="_blank"><img src="file:///C:/Users/arv20/Desktop/html/anil/fri%20icon.jpeg"></a></td>
+        <td align="left" valign="bottom"><a href="file:///C:/Users/arv20/Desktop/html/anil/shoulder.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color:gold;font-size: 25px;">FRIDAY</div></a></td></tr>
+        <tr><td><a href="legs.html" target="_blank"><img src="file:///C:/Users/arv20/Desktop/html/anil/sat%20icon.jpeg"></a></td>
+        <td align="left" valign="bottom"><a href="file:///C:/Users/arv20/Desktop/html/anil/legs.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color: gold;font-size: 25px; "> SATURDAY</div></a></td></tr>
+    </table>
+    <a href="file:///C:/Users/arv20/Desktop/html/anil/area.html" style="text-decoration: none;"><div style="margin-left:950px;color:blue;font-family:'Times New Roman', Times, serif;font-size: 25px;">Know from Image</div></a>
+                </div>
+            </div>
+
+
+
+
+
+
+        </div>
+
+    </section>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div class="contactfull2">
+ <section class="contact" id="contact">
+            <div class="contactfull">
+                <div id="menu" class="menutitle">
+                    <h2 class="menuheading"> <span class="letterm">c</span>onatct  and <span class="letterm">r</span>eferences
+                    </h2>
+					<br/>
+					<br/>
+					<br/>
+						<a href="file:///C:/Users/arv20/Desktop/html/loki/books.main.html" target="_blank"> <h1><span style="font-size:30px; color:purple; font-allign:center;">click here to look on some references</span></h1></a>
+					</div>
+  
+    <div style="background-color: #c8102e";>
+
+         <table cellspacing="80" cellpadding="0" align="center" border="0" style="text-align:centre;">
+            <tr>
+                <td style=" padding-top:0px"><strong style="color:black;font-size: 18px;"><em><h2>ABOUT US</h2></em></strong>
+                  <ul style="list-style-type: none">
+                   <li><a href="file:///C:/Users/arv20/Desktop/html/jite/Aboutus.html"><h6><span style="font-size:large; color:cornsilk">About Us</span></h6></a></li>
+                  <li><a href="file:///C:/Users/arv20/Desktop/html/jite/review.html"><h6><span style="font-size:large; color:cornsilk">Reviews</span></h6></a></li>
+                 </ul>  
+                    
+                    
+            </td>
+            <td  style=" padding-top: 0px"><strong style="color:black; font-size: 18px;"><em><h2>POLICIES & LEGAL</h2></em></strong>
+                <ul style="list-style-type: none">
+                    <li><a href="file:///C:/Users/arv20/Desktop/html/jite/privacy.html"><h6><span style="color:cornsilk; font-size:large">Privacy policy</span></h6></a></li>
+                    <li><a href="file:///C:/Users/arv20/Desktop/html/jite/terms.html"><h6><span style="color:cornsilk; font-size:large">Terms & Conditions</span></h6></a></li>
+
+                </ul>
+            </td>
+            <td  style=" padding-top: 0px"><strong style="black; font-size: 18px;"><em><h2>CUSTOMER SERVICE</h2></em></strong>
+                <ul style="list-style-type: none">
+                    <li><a href="file:///C:/Users/arv20/Desktop/html/jite/faq.html"><h6><span style="color:cornsilk;font-size:large">FAQs</span></h6></a></li>
+                    <li><a href="file:///C:/Users/arv20/Desktop/html/jite/Contact%20Us.html"><h6><span style="color:cornsilk;font-size:large">Contact Us</span></h6></a></li>
+
+                </ul>
+            </td>
+                <td  style=" padding-top: 0px"><strong style="color: black;font-size: 18px;"><em><h2>CONNECT</h2></em></strong>
+                    <ul style="list-style-type: none;">
+                     <li><h6><span style="color:cornsilk; font-size:large">Follow Us</span></h6></li>
+                     <li style="color: cornsilk"><a href="https://instagram.com"><img src="file:///C:/Users/arv20/Desktop/html/jite/instagram.png" height="30px" ></a> 
+                     <a href="https://facebook.com"><img src="file:///C:/Users/arv20/Desktop/html/jite/facebook.png" height="30px"></a>
+                     <a href="https://twitter.com"><img src="file:///C:/Users/arv20/Desktop/html/jite/twitter.png" height="30px"></a>
+                      <a href="https://pinterest.com"><img src="file:///C:/Users/arv20/Desktop/html/jite/pinterest.png" height="30px"></a></li>
+                    </ul>
+                </td>
+               
+            </tr>
+			</table>
+		</div>
+
+		</div>
+		
+	</section>				
+</div>
+
+
+</body>
+
+</html>
+
+
+<style>
+figure figcaption{
+font-family:times;
+font-size:18px;
+color:blue;
+}
+
+
+             * {
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.banner {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  background-image: url("bg.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1));
+
+  width: 100%;
+  height: 100vh;
+  color: white;
+}
+.mainheading1 {
+  position: relative;
+  top: 250px;
+  left: -18px;
+  font-size: 80px;
+  text-transform: uppercase;
+
+  font-weight: bolder;
+}
+
+.maincontent {
+  position: relative;
+  top: 250px;
+  left: -18px;
+   text-transform: uppercase;
+  font-weight: 300;
+  font-style: italic;
+  color: lime;
+   font-size: 20px;
+  font-family:Franklin Gothic Medium;
+}
+
+.maincontentsub {
+  position: relative;
+  top: 350px;
+  left: -18px;
+  font-weight: 300;
+  font-family:Bahnschrift SemiBold;
+  color: aqua;
+}
+.gallerylink {
+  position: relative;
+  top: 252px;
+  left: -18px;
+  color: white;
+  background-color: #ff0157;
+  display: inline-block;
+  padding: 10px 30px;
+  margin-top: 20px;
+  text-decoration: none;
+  letter-spacing: 2px;
+
+  text-transform: uppercase;
+  transition: 1s;
+}
+.ourmenulink:hover {
+  letter-spacing: 6px;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10000;
+}
+.logo {
+  position: fixed;
+  top: 40px;
+  left: 30px;
+  color: gold;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: 700;
+  transition: 0.5s;
+  text-decoration: none;
+}
+
+.navbar2 {
+  position: fixed;
+  top: 40px;
+  left: 800px;
+}
+a {
+  padding-left: 20px;
+  color: white;
+  list-style: none;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 1.1em;
+}
+
+header.sticky {
+  background: white;
+  padding: 40px 100px;
+  	box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+}
+header.sticky .logo {
+  color: black;
+}
+
+header.sticky .navbar2 li a {
+  color: black;
+}
+header.sticky .navbar2 li a:hover {
+  color: blue;
+}
+.about {
+  position: relative;
+  top: 100px;
+  left: 100px;
+  min-height: 100%;
+  width: 40%;
+}
+.aboutheading {
+  position: relative;
+  top: -55px;
+  font-weight: 100px;
+  font-weight: lighter;
+  left: 170px;
+  font-size: 40px;
+  text-transform: capitalize;
+}
+.lettera {
+  color: red;
+}
+bold{
+ text-color: blue;
+ font-weight: 100;
+ }
+
+.aboutusimg {
+  position:relative;
+  top: -670px;
+  left: 400px;
+  object-fit: cover;
+}
+.aboutusimg2 {
+  position:relative;
+  top: -120px;
+  left: 10px;
+  object-fit: cover;
+}
+.aboutuscontent {
+  font-family:Browallia New;
+  font-size: 20px;
+  font-weight: 100;
+}
+.aboutvegheading{
+ font-family:arial;
+ font-size:35px;
+ color:red;
+ text-transform:uppercase;
+  position: relative;
+  top: -170px;
+  left: 50px;
+}
+.vegcontent {
+  font-family:times;
+  font-size: 20px;
+  font-weight: 100;
+  width:80%;
+  position: relative;
+  top: -150px;
+  left: 50px;
+}
+
+.vegimg
+{
+position:relative;
+  top:-350px;
+  object-fit: cover;}
+  
+  
+.vegcontent2.vegimg
+{  width:80%;
+position:relative;
+top=360px;}
+.menutitle {
+  position: relative;
+  top: -200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 1rem;
+}
+.menuheading {
+  text-transform: capitalize;
+  font-size: 45px;
+  word-spacing: 3px;
+  font-weight: lighter;
+}
+.menucontent {
+  position: relative;
+  top: 60px;
+  font-size:20px;
+  font-family: cursive;
+}
+.letterm {
+  text-transform: uppercase;
+  color: #ff0157;
+  font-size: 2.2rem;
+}
+.lettero {
+  text-transform: uppercase;
+  color: #ff0157;
+  font-size: 2.2rem;
+}
+
+.menu .content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+.menu .content .box {
+  width: 340px;
+  margin: 20px;
+  border: 15px solid #fff;
+  box-shadow: 0 5px 35px rgba(0, 0, 0, 0.8);
+}
+.menu .content .box .menuimg {
+  position: relative;
+  width: 100%;
+  height: 300px;
+}
+.menu .content .box .menuimg img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.fullmenu {
+  position: relative;
+  top: -80px;
+}
+.menu .content .box .text {
+  padding: 15px 0 5px;
+}
+.menu .content .box .text .menuitem {
+  font-weight: 400px;
+  color: #111;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.fullexperts {
+  position: relative;
+  top: 300px;
+}
+.expert .content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+
+
+
+.menutitle2 {
+  color: black;
+}
+.menucontent2 {
+  color: white;
+  position: relative;
+  left: -30px;
+}
+.testimonials .content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+}
+.schedulefull {
+  position: relative;
+  top: 100px;
+  left: 270px;
+
+}
+.menuitem {
+  text-transform: capitalize;
+  font-weight: bold;
+  position: relative;
+  top: 15px;
+  font-size: 1rem;
+  color: #ff0157;
+}
+
+.testimonials .content .box .text .text2 {
+  color: #666;
+  font-style: italic;
+}
+.contactfull {
+  position: relative;
+  top: 200px;
+}
+.contact {
+  height: 300px;
+   }
+@media (max-width: 991px) {
+  header,
+  header .sticky {
+    padding: 10px 20px;
+  }
+  header .navbar2 {
+    display: none;
+  }
+}
+.contactfull2 {
+ height: 500px;
+ 
+}
+
+</style>
